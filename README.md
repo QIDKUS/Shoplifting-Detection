@@ -99,10 +99,6 @@ Scenarios tested:
 
 All the cases of theft were examined in a variety of shooting angles, and by rotation of actors and clothing.
 
-we collect 4000 video clips after the filtering process.
-A link to the dataset sample is provided, for the entire Dataset
-
-send email to info@silentvision.org
 
 
 
