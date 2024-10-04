@@ -1,13 +1,9 @@
-# Shoplifting-Detection
+# AiONu Shoplifting-Detection
 ---
-#### Project creators
--  Amit Hayun [Amit@silentvision.org](Amit@silentvision.org)
--  Amit Hayun [Linkedin](https://www.linkedin.com/in/amithayun82797614a/)
--  [Silentvision](silentvision.org)
 
 
 
-SL -Shoplifting detection Provides real-time alerts for the SMB market retailers, to monitor and report customer behavior when shoplifting occur, by analyzing security camera frames and performing real-time forecasting using cutting edge lightweight deep neural  network 3D-CNN architecture
+Ai ONu - Shoplifting detection Solution Provides real-time alerts for the SMB market retailers, to monitor and report customer behavior when shoplifting occur, by analyzing security camera frames and performing real-time forecasting using cutting edge lightweight deep neural  network 3D-CNN architecture
 
 ## Table of contents
 ---
